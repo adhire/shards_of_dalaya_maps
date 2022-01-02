@@ -1,0 +1,8 @@
+P 189.7066, -254.4137, 0.0010,  0, 0, 0,  2,  a_spectral_librarian
+P 360.2043, 199.3889, 8.0010,  0, 0, 0,  2,  Prince_Truend
+P 310.6523, 138.2862, 8.0010,  0, 0, 0,  2,  Lodo_the_Chamberlain
+P -524.8815, 23.5329, 0.0010,  0, 0, 0,  2,  Feastmaster_Hilgor
+P -305.4596, -68.4827, 12.0010,  0, 0, 0,  2,  Durun_the_Champion
+P -400.0000, -171.0000, 0.0000,  0, 127, 127,  2,  A_frightened_ghostly_dwarf
+P -217.0000, -200.0000, 4.0000,  0, 127, 127,  2,  A_fallen_crusader
+P 367.0000, -45.0000, 0.0000,  0, 127, 127,  2,  A_battle_priest

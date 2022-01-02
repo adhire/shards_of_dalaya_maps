@@ -1,0 +1,3 @@
+P 27.5008, 378.4719, 16.5010,  0, 0, 0,  2,  An_Enraged_Fanatic
+P -566.8106, 244.6207, 16.1213,  0, 0, 0,  1,  Headmaster_Zoldin
+P -439.0191, -404.8537, 0.0010,  0, 0, 0,  2,  Ghost_of_the_Headmaster

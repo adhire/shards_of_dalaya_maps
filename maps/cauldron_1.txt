@@ -1,0 +1,2 @@
+P 827.7327, 237.3068, 241.6394,  0, 127, 127,  2,  a_shambling_abomination_(roams)
+P 961.2369, 403.6327, 94.2654,  240, 0, 0,  2,  Dawnprime_Teron'Rish

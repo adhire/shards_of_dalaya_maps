@@ -1,0 +1,11 @@
+P -586.1514, -1140.7384, 53.9697,  0, 0, 0,  2,  Speakers_of_the_Signs_(First,_Second,_Third)
+P 279.5194, -938.7813, 104.9697,  0, 0, 0,  2,  Watcher_of_the_Eye
+P 279.0558, -944.4745, 105.9551,  0, 0, 0,  2,  The_Eye_of_Yaralith
+P -380.3160, -366.5603, 12.0010,  0, 0, 0,  2,  High_Knight_Yan`Vzia?
+P -188.0732, -357.6525, -13.9990,  0, 0, 0,  2,  Hand_of_Yaralith
+P 309.4383, -173.1417, -295.1692,  0, 0, 0,  2,  Sludgecrawler
+P -401.6329, -301.1014, 12.0179,  0, 0, 0,  2,  Guard_Master_Tan`Yizan?
+P -60.0000, -363.0000, 0.0000,  0, 127, 127,  2,  A_tal'yan_bonecaster
+P 490.0000, 85.0000, 0.0000,  0, 127, 127,  2,  A_dead_darkelf
+P 0.0000, -17.0000, -40.0000,  0, 127, 127,  2,  A_dankwater_elemental
+P 492.0000, 68.0000, 16.0000,  0, 127, 127,  2,  A_buried_high_priest

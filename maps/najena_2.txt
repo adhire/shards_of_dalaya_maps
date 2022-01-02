@@ -1,0 +1,4 @@
+P 312.0000, -35.0000, -11.0000,  0, 127, 127,  2,  Painmaster_Ugriath
+P 222.0000, 36.0000, -10.0000,  0, 127, 127,  2,  Kalak_the_Shadow_Walker
+P -216.0000, -176.0000, 0.0000,  0, 127, 127,  2,  Harvester_Mneglik
+P 147.0000, -132.0000, 1.0000,  0, 127, 127,  2,  A_mutated_skull_collector

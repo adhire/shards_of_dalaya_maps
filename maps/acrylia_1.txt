@@ -1,0 +1,4 @@
+P 661.0000, 0.0000, 0.0010,  0, 0, 0,  2,  evac_spot
+P 25.5805, 493.4091, -24.4990,  0, 0, 240,  2,  Odd_Warpstone_Shards_(give_to_statue_to_get_to_Cecuvians)
+P -182.0000, 277.0000, 3.5010,  128, 0, 128,  2,  port-in_for_Cecuvians
+P -765.7650, 373.4808, -27.9990,  0, 0, 0,  2,  lava

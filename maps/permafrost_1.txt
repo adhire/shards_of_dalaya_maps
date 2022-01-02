@@ -1,0 +1,2 @@
+P 542.0760, -192.8396, 0.0010,  127, 0, 0,  2,  Vaporous_Projection_(for_key)
+P 554.3760, -187.5468, 0.0010,  127, 0, 0,  2,  Crystal_Oracle_(need_key)

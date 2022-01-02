@@ -1,0 +1,15 @@
+P 734.5898, 934.4539, 85.0010,  240, 0, 0,  2,  Altaan_the_Sangoma_(teleports_raid)
+P 650.0000, 1600.0000, -70.0000,  0, 127, 127,  2,  Captain_Aiden
+P 231.0000, 1662.0000, -72.0000,  0, 127, 127,  3,  Duke_Thanes_the_Righteous
+P 1379.0000, 1529.0000, 57.0000,  0, 127, 127,  2,  Eisa_of_the_Rose
+P 661.0000, 94.0000, 56.0000,  0, 127, 127,  2,  Gunther_The_Protected
+P -847.8147, 2039.0397, 56.0010,  240, 0, 0,  2,  High_Priest_Rodger_(roams)
+P 75.0000, 863.0000, 56.0000,  0, 127, 127,  2,  Judge_Rouf_Stoutmane
+P 556.6669, -803.0844, 56.0010,  0, 0, 0,  2,  Judge_Rouf_Stoutmane
+P 650.0000, 1600.0000, -70.0000,  0, 127, 127,  2,  Private_Peters_Greaven
+P 950.0000, -100.0000, 0.0000,  0, 127, 127,  2,  Smith_Mithrilhart
+P 233.7588, 558.4747, 90.0010,  240, 0, 0,  2,  Keeper_of_Purity
+P 565.1321, -800.4579, 56.0010,  0, 0, 0,  2,  Freit_Stonemind
+P 1379.0485, 1528.9496, 57.0010,  240, 0, 0,  2,  Eisa_of_the_Rose_(roams_room)
+P 231.9029, 1562.1268, -71.9990,  0, 0, 0,  2,  Avatar_of_Mercy
+P -962.4140, 1507.7396, 20.0010,  240, 0, 0,  2,  Tidemistress_2.0

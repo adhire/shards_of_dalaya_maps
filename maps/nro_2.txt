@@ -1,0 +1,4 @@
+P 603.2206, 803.9308, 1.7510,  240, 0, 0,  2,  The_Spectral_Hunter_(adept)
+P -300.0000, -60.0000, -32.0000,  0, 127, 127,  2,  Lashmaster_Venzi`kar
+P 842.0000, -772.0000, 0.0000,  0, 127, 127,  2,  A_suspicious_looking_crate_(to_Ikisith)
+P 837.0000, -804.0000, 0.0000,  0, 127, 127,  2,  A_large_empty_crate

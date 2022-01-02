@@ -1,0 +1,3 @@
+P 68.0000, -86.0000, 35.0000,  0, 127, 127,  2,  Ta`Firyik_the_Darkscale
+P 22.0000, -303.0000, 0.0000,  0, 127, 127,  2,  A_frilakh_quarrymaster
+P -550.0000, 500.0000, 0.0000,  0, 127, 127,  2,  A_frilakh_Commander

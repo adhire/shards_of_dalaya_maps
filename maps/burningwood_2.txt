@@ -1,0 +1,2 @@
+P -1130.0000, -1320.0000, -204.0000,  0, 127, 127,  2,  Kromtor_Chieftain_(hail_to_get_into_ToE)
+P -1220.0000, -1080.0000, -201.0000,  0, 127, 127,  2,  Kromtor_Supplier

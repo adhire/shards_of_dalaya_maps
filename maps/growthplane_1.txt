@@ -1,0 +1,9 @@
+P 1614.0155, -1594.6859, 201.0947,  0, 0, 0,  2,  Sihala,_Lady_of_the_Earth
+P 1668.7896, -1595.7831, 45.8447,  0, 0, 0,  2,  Felwood_the_Earth_Mephit_(roamer)
+P 1630.6647, -1502.4470, 45.8447,  0, 0, 0,  2,  Prime_Sentinel_Kergath
+P 3261.2388, -3525.7383, 476.4936,  0, 0, 0,  2,  The_Vegarso_Queen
+P 1714.7612, -1835.8521, 44.4880,  0, 0, 0,  2,  Tree_Keeper_Rosretal
+P 333.8706, -432.3240, 108.2922,  0, 0, 0,  2,  Zeyev_the_Fang_(roamer)
+P 405.7131, -1019.2811, -50.8427,  0, 0, 0,  2,  Magleroot_(roamer)
+P -2135.8640, -1197.5448, -32.0740,  0, 0, 0,  2,  Glinda_the_Last_(roamer)
+P -3021.9773, 2521.3938, -25.7339,  0, 0, 0,  2,  Sister_Sonderlia

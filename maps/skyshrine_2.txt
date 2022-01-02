@@ -1,0 +1,4 @@
+P -592.0000, -158.0000, 0.0000,  0, 127, 127,  3,  Yashira,_Keeper_of_Secrets
+P 327.1076, -651.6194, 39.9697,  0, 0, 0,  2,  Manifestations_of_the_Elements
+P 698.4999, -670.3725, 39.9697,  0, 0, 0,  2,  Mirror_Golems
+P 1116.0083, -166.8495, 259.9072,  0, 0, 0,  2,  Taeshlin,_The_Guardian

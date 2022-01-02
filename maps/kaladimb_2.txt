@@ -1,0 +1,6 @@
+P -140.0000, -768.0000, 0.0000,  0, 127, 127,  2,  A_ghostly_priest
+P 173.0000, -668.0000, 0.0000,  0, 127, 127,  2,  A_mournful_ghost_(SHM_Starfall)
+P -197.0000, -563.0000, -32.0000,  0, 127, 127,  2,  Blackscale_Raider_(Spook_the_Spooks_quest)
+P -132.0000, -802.0000, 3.0000,  0, 127, 127,  2,  Prelate_Migur
+P 205.0000, -685.0000, 4.0000,  0, 127, 127,  2,  Ragor_Greybloom
+P -131.0000, -1330.0000, 0.0000,  0, 127, 127,  2,  Torlog_the_Betrayer

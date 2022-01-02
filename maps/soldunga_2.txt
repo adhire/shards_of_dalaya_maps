@@ -1,0 +1,7 @@
+P 929.0000, 170.0000, 53.0000,  240, 0, 0,  3,  Taraztu_the_Demonologist
+P 696.0000, -80.0000, 45.0000,  240, 0, 0,  2,  Servant_of_Taraztu
+P 661.0000, 1015.0000, 42.0000,  240, 0, 0,  2,  General_Riklos
+P 1104.0000, 297.0000, 49.0000,  240, 0, 0,  2,  Ember_Lord_Zaafrag
+P 345.0000, 817.0000, 59.0000,  240, 0, 0,  2,  A_goblin_high_councillor
+P 591.0000, 333.0000, 35.0000,  240, 0, 0,  2,  A_furious_little_imp
+P 817.0000, 400.0000, 41.0000,  240, 0, 0,  2,  A_burning_construct

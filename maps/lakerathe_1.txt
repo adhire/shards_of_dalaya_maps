@@ -1,0 +1,4 @@
+P -2057.0181, -1358.0017, -21.2114,  240, 0, 0,  2,  a_erudite_misanthrope
+P 735.6625, 470.5602, -46.2570,  240, 0, 0,  2,  a_erudite_misanthrope
+P -63.0216, -3654.3687, 53.9933,  240, 0, 0,  2,  a_erudite_misanthrope
+P -2824.0483, 146.0868, -21.4899,  240, 0, 0,  2,  a_erudite_misanthrope

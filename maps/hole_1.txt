@@ -1,0 +1,11 @@
+P 80.0000, -371.0000, -216.9052,  0, 0, 0,  2,  Tabihik_the_Flagellant
+P -4.0000, 7.0000, -279.8739,  0, 0, 0,  2,  Tvokuz_the_Cursed
+P 243.0000, -535.0000, -195.9052,  0, 0, 0,  2,  Tatykyth_the_Hunter
+P -346.0000, -63.0000, -385.8427,  0, 0, 0,  2,  The_Bloodfire_Master
+P 39.0000, -172.0000, -348.8739,  0, 0, 0,  2,  Bloodfire_Elemental_Prince
+P -326.0000, -716.0000, -909.6238,  0, 0, 0,  2,  Elemental_Princes_of_Fire
+P -641.0000, -109.0000, -401.8427,  0, 0, 0,  2,  Favug_the_Advisor
+P -295.3955, -73.8254, -385.8427,  0, 0, 0,  2,  Bloodfire_Scorcher_(maybe)
+P -393.0958, -62.7972, -349.8739,  0, 0, 0,  2,  hidden_wall
+P -237.5307, -40.5321, -348.8739,  0, 0, 0,  2,  hidden_wall
+P -263.3080, 19.3171, -360.8427,  0, 0, 0,  2,  Bloodfire_Scorcher_(maybe)

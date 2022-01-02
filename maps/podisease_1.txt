@@ -1,0 +1,4 @@
+P -883.8502, -29.4328, 29.2269,  0, 0, 0,  1,  buff_spot_(before_engaging_Eyes)
+P -2.6931, 2715.7427, -199.5672,  0, 0, 0,  2,  pull_area_(large_aggro_radius)
+P 123.2380, 2635.4324, -159.4077,  0, 0, 0,  1,  place_to_get_tagged
+P -682.3468, 609.0023, 32.0666,  0, 0, 0,  1,  setup_for_Blackfin

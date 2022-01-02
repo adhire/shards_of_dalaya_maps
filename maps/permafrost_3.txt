@@ -1,0 +1,2 @@
+P 536.7294, -1084.9027, 2.4851,  127, 0, 0,  2,  Prison_key_(groundspawn)
+P -276.7749, -931.3018, -83.9677,  127, 0, 0,  2,  Orb_of_Flawless_Crystal_(Blackscale)

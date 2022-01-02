@@ -1,0 +1,2 @@
+P -10.0000, -100.0000, 0.0000,  127, 0, 0,  2,  Discarded_Medical_Record
+P 90.0000, 50.0000, 0.0000,  127, 0, 0,  2,  Discarded_Medical_Record

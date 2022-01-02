@@ -1,0 +1,4 @@
+P 1357.8762, 499.2954, -16.2945,  127, 0, 0,  2,  Destruct-o-Tron_Six_
+P 1197.7595, -97.4081, -16.4990,  0, 0, 0,  2,  X-J-Five_Servbot_Control
+P 690.8307, 40.5200, -19.0952,  0, 127, 127,  2,  Servbot_Access_Monitor_
+P 158.9964, -242.1201, -28.8360,  0, 0, 0,  2,  Administrative_Traffic_Limiter

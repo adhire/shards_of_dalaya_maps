@@ -1,0 +1,3 @@
+P 752.5201, 53.8562, 21.0010,  240, 0, 0,  2,  a_corpse_collecting_imp_(roams_yellow_hall)
+P 696.0236, 657.9882, 53.9744,  240, 0, 0,  2,  A_goblin_storemaster
+P 686.4617, 977.9016, 34.0010,  0, 0, 0,  2,  Lifeward_forge

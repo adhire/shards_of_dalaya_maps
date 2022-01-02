@@ -1,0 +1,4 @@
+P -1451.5496, 378.7851, 442.4252,  0, 0, 0,  2,  Aken,_Chosen_of_Enthann
+P -1465.9281, -375.6566, 441.0010,  0, 0, 0,  2,  Anos,_Chosen_of_Enthann
+P -1623.4592, -380.4408, 447.0638,  0, 0, 0,  2,  Tansa,_Chosen_of_Enthann
+P -1602.2957, 381.4416, 441.0009,  0, 0, 0,  2,  Denos,_Chosen_of_Enthann
